@@ -4,12 +4,11 @@ An AI-powered career readiness platform that analyses a candidate's profile agai
 
 My contribution was mainly in taking the AI-generated application and making it work as a complete application. I handled the Supabase setup, Edge Function configuration, Gemini API integration, environment variables, API key security, testing, and debugging. I also worked through the errors that came up during development instead of depending only on the AI builder.
 
-![Desktop-Preview](./public/assets/desktop-preview.png)
+![Desktop-Preview](./desktop-preview.png)
 
 ---
 
-## Probelm Statement
-
+## 🎯Problem Statement
 As a fresher, I know that one of the confusing parts of job preparation is understanding what to learn for a specific role!
 
 Many students and freshers apply for jobs without knowing how closely their current skills match the job requirements.
@@ -27,14 +26,12 @@ It can be difficult to go through all of these requirements manually and create 
 So, I wanted to build something that could take a candidate's profile and a job description and give a simple, useful analysis.
 Instead of giving a generic list of skills, I wanted CareerPilot AI to focus on the gap between:
 
-### Goal
-
+### 💡Main Goal Of the Project
 What I currently know + What the job requires = What I should prepare next
 
 ---
 
-## Solution
-
+## 🤖How My Project Works
 CareerPilot AI is an AI-powered career readiness platform that helps candidates understand their readiness for a specific job.
 
 The user provides their candidate profile and a target job description. CareerPilot AI analyzes both and generates a personalized career readiness report.
@@ -58,23 +55,19 @@ Instead of only telling the candidate whether they match a job, the application 
 
 ---
 
-## Technologies Used
-
+## 🛠️Technologies Used
 ### Frontend
-
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 
 ### Backend / AI
-
 - Supabase Edge Functions
 - Google Gemini API
 - Gemini 3.6 Flash
 
 ### Development Tools
-
 - Bolt.new
 - Visual Studio Code
 - Git
@@ -85,8 +78,7 @@ Instead of only telling the candidate whether they match a job, the application 
 
 ---
 
-## WorkFlow
-
+## 🔄WorkFlow
 > User clicks The Analyze Job
 
 >> Enter's Candidate Profile
@@ -119,28 +111,19 @@ Instead of only telling the candidate whether they match a job, the application 
 
 ---
 
-## Screenshots
-
-### Test Case-1:
-![Analyze-career-1](./public/assets/Analyze-Career-1.png)
-
-**AI Report**
-![Report1](./public/assets/Result-1.png)
-
-### Test Case-2:
+## 📸Screenshots
+### Test Case
 ![Anlyze-career-2](./public/assets/Analyze-Career-2.png)
 
-**AI Report**
+### AI Report
 ![Report-2](./public/assets/Result-2.png)
 
 ### Supabase Project report
-
 ![supabase report](./public/assets/supabase-functions.png)
 
 ---
 
-## Individual Contribution
-
+## 🤝Individual Contribution
 I worked on the project individually.
 
 My contribution included both the application development and the technical integration required to make the prototype work.
@@ -154,8 +137,9 @@ In particular, I worked on:
 - API key security
 - Testing
 
-## Future Improvements
+---
 
+## 📈Future Improvements
 There are several features I would like to add after the MVP:
 
 - Resume PDF upload and analysis
@@ -169,8 +153,9 @@ There are several features I would like to add after the MVP:
 
 These features are planned for future versions. The current submission focuses on the core AI-powered career readiness analysis.
 
-## Author
+---
 
+## 👩‍💻 Author
 **Pallavi Ande**
 
 **MCA Graduate | Java Full Stack Developer | Web Developer**
